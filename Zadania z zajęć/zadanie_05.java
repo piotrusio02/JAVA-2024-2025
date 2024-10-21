@@ -1,4 +1,6 @@
-/* tresc zadania */
+/* Napisz statyczną metodę, która p
+rzyjmuje napis jako argument i zwraca 
+ten napis w odwrotnej kolejności. Stwórz przypadek testowy. */
 
 public class Main {
     public static void main(String[] args) {
