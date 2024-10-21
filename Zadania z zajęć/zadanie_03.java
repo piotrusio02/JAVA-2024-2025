@@ -1,4 +1,6 @@
-/* treść zadania */
+/* Napisz statyczną metodę average, która przyjmuje listę tablicową 
+liczb zmiennoprzecinkowych jako argument i zwraca średnią arytmetyczną 
+wszystkich liczb. Jeżeli lista tablicowa jest pusta, zwróć 0. Stwórz przypadek testowy. */
 
 /* Main.java */
 import java.util.ArrayList;
