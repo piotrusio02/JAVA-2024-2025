@@ -1,4 +1,8 @@
-/* tresc zadania */
+/* Napisz statyczną metodę minimumValue, która przyjmuje 
+listę tablicową liczb całkowitych jako argument i zwraca 
+najmniejszą liczbę w liście tablicowej. Przyjmij, że lista 
+tablicowa zawsze będzie miała co najmniej jeden element. Stwórz 
+przypadek testowy. */
 
 /*Main.java*/
 import java.util.ArrayList;
